@@ -9,7 +9,7 @@
 <li>NUMBER_FROM</li>
 <li>NUMBER_TO</li>
 
-#### Vkontakte
+#### Vkontakte:
 <li>VK_TOKEN</li>
 
 Documentation for the twilio API: https://www.twilio.com/docs/sms/quickstart/python.
